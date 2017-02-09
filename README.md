@@ -10,5 +10,10 @@ The code uses the lightfm recommender system library to train a hybrid content-b
  
  Install missing dependencies using pip
  
+ Usage
+ After installing all the dependencies run the code via terminal
+ 
+ python movie.py
+ 
  
 
